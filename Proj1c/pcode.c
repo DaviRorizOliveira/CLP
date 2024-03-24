@@ -1,5 +1,5 @@
 // Aluno: Davi Roriz Oliveira
-// Matrícula: 202210342
+// Matricula: 202210342
 
 #include <stdio.h>
 
