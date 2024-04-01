@@ -24,6 +24,17 @@ instruction i;
 
 instruction code[] = {
     // Cole aqui os comandos do exercício que deseja realizar
+    {INTE, 0, 3},
+    {LIT, 0, 0},
+    {LIT, 0, 11},
+    {LIT, 0, 1},
+    {OPR, 0, 3},
+    {OPR, 0, 2},
+    {INTE, 0, 1},
+    {JPC, 0, 10},
+    {INTE, 0, 2},
+    {JMP, 0, 4},
+    {OPR, 0, 0},
 };
 
 void interpret() {
